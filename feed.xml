@@ -3,10 +3,10 @@
   <channel>
     <title>Jalpc</title>
     <description>Jack&#39;s blog,use Jekyll and github pages.</description>
-    <link>http://www.jack003.com.//</link>
-    <atom:link href="http://www.jack003.com.//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jun 2016 11:04:55 +0800</pubDate>
-    <lastBuildDate>Wed, 29 Jun 2016 11:04:55 +0800</lastBuildDate>
+    <link>http://glb127.github.io./weibo//</link>
+    <atom:link href="http://glb127.github.io./weibo//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Jun 2016 11:17:14 +0800</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2016 11:17:14 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -40,8 +40,8 @@
 
 </description>
         <pubDate>Sun, 26 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//html/2016/06/26/JavaScript-if-statement.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//html/2016/06/26/JavaScript-if-statement.html</guid>
+        <link>http://glb127.github.io./weibo//html/2016/06/26/JavaScript-if-statement.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//html/2016/06/26/JavaScript-if-statement.html</guid>
         
         <category>JavaScript</category>
         
@@ -119,8 +119,8 @@
 &lt;p&gt;toLocaleString 、toString 、valueOf：可以看作是join的特殊用法，不常用&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//html/2016/06/23/javascript-json-array.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//html/2016/06/23/javascript-json-array.html</guid>
+        <link>http://glb127.github.io./weibo//html/2016/06/23/javascript-json-array.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//html/2016/06/23/javascript-json-array.html</guid>
         
         <category>JavaScript</category>
         
@@ -208,8 +208,8 @@ size  pack  SHA                                       location
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 19 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//linux/2016/06/19/clean-git-repo.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//linux/2016/06/19/clean-git-repo.html</guid>
+        <link>http://glb127.github.io./weibo//linux/2016/06/19/clean-git-repo.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//linux/2016/06/19/clean-git-repo.html</guid>
         
         <category>Git</category>
         
@@ -739,8 +739,8 @@ size  pack  SHA                                       location
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 15 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//html/2016/06/15/angularjs-guide.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//html/2016/06/15/angularjs-guide.html</guid>
+        <link>http://glb127.github.io./weibo//html/2016/06/15/angularjs-guide.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//html/2016/06/15/angularjs-guide.html</guid>
         
         <category>AngularJS</category>
         
@@ -891,8 +891,8 @@ iface wlan1 inet manual
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 09 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//linux/2016/06/09/install-raspbian-on-mac.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//linux/2016/06/09/install-raspbian-on-mac.html</guid>
+        <link>http://glb127.github.io./weibo//linux/2016/06/09/install-raspbian-on-mac.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//linux/2016/06/09/install-raspbian-on-mac.html</guid>
         
         <category>Raspbian</category>
         
@@ -955,8 +955,8 @@ iface wlan1 inet manual
 &lt;p&gt;最后一步就是对分页的样式重新定义，因为jPages自带的样式很不好看，我使用的是bootstrap，这里需要在&lt;code class=&quot;highlighter-rouge&quot;&gt;jPages.js&lt;/code&gt;中进行修改，具体可以在我&lt;a href=&quot;https://github.com/Jack614/jalpc_jekyll_theme/blob/master/static/js/jPages.js&quot;&gt;项目&lt;/a&gt;中的代码查看，有注释的部分是jPages原来的代码。&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//html/2016/06/04/jekyll-pagination-with-jpages.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//html/2016/06/04/jekyll-pagination-with-jpages.html</guid>
+        <link>http://glb127.github.io./weibo//html/2016/06/04/jekyll-pagination-with-jpages.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//html/2016/06/04/jekyll-pagination-with-jpages.html</guid>
         
         <category>pagination</category>
         
@@ -998,8 +998,8 @@ Namespaces are one honking great idea -- let&#39;s do more of those!
 &lt;p&gt;原来这就是Python之禅，哈哈&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Jun 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//python/life/2016/06/02/zen-of-python.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//python/life/2016/06/02/zen-of-python.html</guid>
+        <link>http://glb127.github.io./weibo//python/life/2016/06/02/zen-of-python.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//python/life/2016/06/02/zen-of-python.html</guid>
         
         <category>Python</category>
         
@@ -1143,8 +1143,8 @@ Parameters:         /usr/local/bin/iterm2-zmodem rz
 &lt;p&gt;Github链接：&lt;a href=&quot;https://github.com/Jack614/iterm2-zmodem&quot;&gt;https://github.com/Jack614/iterm2-zmodem&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 May 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//mac/2016/05/29/Z-Modem-integration-for-iTerm2.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//mac/2016/05/29/Z-Modem-integration-for-iTerm2.html</guid>
+        <link>http://glb127.github.io./weibo//mac/2016/05/29/Z-Modem-integration-for-iTerm2.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//mac/2016/05/29/Z-Modem-integration-for-iTerm2.html</guid>
         
         <category>Mac</category>
         
@@ -1231,8 +1231,8 @@ Parameters:         /usr/local/bin/iterm2-zmodem rz
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 04 May 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//python/database/2016/05/04/python-mysql-redis.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//python/database/2016/05/04/python-mysql-redis.html</guid>
+        <link>http://glb127.github.io./weibo//python/database/2016/05/04/python-mysql-redis.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//python/database/2016/05/04/python-mysql-redis.html</guid>
         
         <category>Python</category>
         
@@ -1461,8 +1461,8 @@ if not len(seq)&lt;/code&gt;&lt;/p&gt;
 &lt;/ol&gt;
 </description>
         <pubDate>Wed, 06 Apr 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com.//python/2016/04/06/python-standard.html</link>
-        <guid isPermaLink="true">http://www.jack003.com.//python/2016/04/06/python-standard.html</guid>
+        <link>http://glb127.github.io./weibo//python/2016/04/06/python-standard.html</link>
+        <guid isPermaLink="true">http://glb127.github.io./weibo//python/2016/04/06/python-standard.html</guid>
         
         <category>优化</category>
         
