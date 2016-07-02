@@ -18,7 +18,7 @@
 
 			AV.Cloud.run('baiduyuns', {}, {
 				success: function(data) {
-					data.sort(function(a,b){return new Date(a.time)-new Date(b.time)});
+					data.sort(function(a,b){return new Date(b.time)-new Date(a.time)});
 		        	for(var i=0;i<data.length;i++){
 		            	document.writeln('<br /><a href="'+data[i].url+'">'+data[i].time+"</a>");
 		            }
